@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from .form import RegistrationForm
+from .forms import RegistrationForm
 from django.http import HttpResponse
 from django.http import HttpResponseRedirect
 # Create your views here.
